@@ -1,4 +1,4 @@
 layout: page
 title: "Node.js"
-permalink: /nodejs
+permalink: /nodejs/
 
